@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3211pt" height="389pt" viewBox="0.00 0.00 3211.00 388.80">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 384.8)">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-384.8 3207,-384.8 3207,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>cluster_0</title>
+<polygon fill="none" stroke="#000000" points="8,-224 8,-372.8 873,-372.8 873,-224 8,-224"/>
+<text text-anchor="middle" x="440.5" y="-356.2" font-family="Times,serif" font-size="14.00" fill="#000000">Evaluación de:</text>
+</g>
+<g id="clust4" class="cluster">
+<title>cluster_3</title>
+<polygon fill="none" stroke="#000000" points="2503,-8 2503,-372.8 2693,-372.8 2693,-8 2503,-8"/>
+<text text-anchor="middle" x="2598" y="-356.2" font-family="Times,serif" font-size="14.00" fill="#000000">Revisión de literatura</text>
+</g>
+<g id="clust5" class="cluster">
+<title>cluster_4</title>
+<polygon fill="none" stroke="#000000" points="2701,-80 2701,-372.8 3195,-372.8 3195,-80 2701,-80"/>
+<text text-anchor="middle" x="2948" y="-356.2" font-family="Times,serif" font-size="14.00" fill="#000000">Problemas de funcionamiento de la columna de destilación</text>
+</g>
+<g id="clust2" class="cluster">
+<title>cluster_1</title>
+<polygon fill="none" stroke="#000000" points="881,-152 881,-372.8 2292,-372.8 2292,-152 881,-152"/>
+<text text-anchor="middle" x="1586.5" y="-356.2" font-family="Times,serif" font-size="14.00" fill="#000000">Conclusiones</text>
+</g>
+<g id="clust3" class="cluster">
+<title>cluster_2</title>
+<polygon fill="none" stroke="#000000" points="2300,-224 2300,-372.8 2495,-372.8 2495,-224 2300,-224"/>
+<text text-anchor="middle" x="2397.5" y="-356.2" font-family="Times,serif" font-size="14.00" fill="#000000">Revisión de software requerido</text>
+</g>
+<!-- Columnas -->
+<g id="node1" class="node">
+<title>Columnas</title>
+<polygon fill="#b2dfee" stroke="#b2dfee" points="864.5042,-340 785.4958,-340 785.4958,-304 864.5042,-304 864.5042,-340"/>
+<text text-anchor="middle" x="825" y="-317.8" font-family="Arial" font-size="14.00" fill="#000000">Columnas</text>
+</g>
+<!-- Empaques -->
+<g id="node2" class="node">
+<title>Empaques</title>
+<polygon fill="#b2dfee" stroke="#b2dfee" points="770.4102,-268 687.5898,-268 687.5898,-232 770.4102,-232 770.4102,-268"/>
+<text text-anchor="middle" x="729" y="-245.8" font-family="Arial" font-size="14.00" fill="#000000">Empaques</text>
+</g>
+<!-- Columnas&#45;&gt;Empaques -->
+<g id="edge1" class="edge">
+<title>Columnas-&gt;Empaques</title>
+<path fill="none" stroke="#c0c0c0" stroke-dasharray="5,2" d="M800.7751,-303.8314C788.8372,-294.8779 774.2744,-283.9558 761.394,-274.2955"/>
+<polygon fill="#c0c0c0" stroke="#c0c0c0" points="763.3171,-271.3629 753.2171,-268.1628 759.1171,-276.9629 763.3171,-271.3629"/>
+</g>
+<!-- Bandejas -->
+<g id="node3" class="node">
+<title>Bandejas</title>
+<polygon fill="#b2dfee" stroke="#b2dfee" points="863.3571,-268 788.6429,-268 788.6429,-232 863.3571,-232 863.3571,-268"/>
+<text text-anchor="middle" x="826" y="-245.8" font-family="Arial" font-size="14.00" fill="#000000">Bandejas</text>
+</g>
+<!-- Columnas&#45;&gt;Bandejas -->
+<g id="edge2" class="edge">
+<title>Columnas-&gt;Bandejas</title>
+<path fill="none" stroke="#c0c0c0" stroke-dasharray="5,2" d="M825.2523,-303.8314C825.3593,-296.131 825.4865,-286.9743 825.6053,-278.4166"/>
+<polygon fill="#c0c0c0" stroke="#c0c0c0" points="829.1049,-278.4609 825.7443,-268.4133 822.1056,-278.3637 829.1049,-278.4609"/>
+</g>
+<!-- Condiciones de presión y temperatura -->
+<g id="node4" class="node">
+<title>Condiciones de presión y temperatura</title>
+<polygon fill="#b2dfee" stroke="#b2dfee" points="767.6598,-340 510.3402,-340 510.3402,-304 767.6598,-304 767.6598,-340"/>
+<text text-anchor="middle" x="639" y="-317.8" font-family="Arial" font-size="14.00" fill="#000000">Condiciones de presión y temperatura</text>
+</g>
+<!-- Contrastación con la hipótesis -->
+<g id="node5" class="node">
+<title>Contrastación con la hipótesis</title>
+<polygon fill="#b2dfee" stroke="#b2dfee" points="492.0322,-340 279.9678,-340 279.9678,-304 492.0322,-304 492.0322,-340"/>
+<text text-anchor="middle" x="386" y="-317.8" font-family="Arial" font-size="14.00" fill="#000000">Contrastación con la hipótesis</text>
+</g>
+<!-- Interpretación de resultados -->
+<g id="node6" class="node">
+<title>Interpretación de resultados</title>
+<polygon fill="#b2dfee" stroke="#b2dfee" points="483.1557,-268 288.8443,-268 288.8443,-232 483.1557,-232 483.1557,-268"/>
+<text text-anchor="middle" x="386" y="-245.8" font-family="Arial" font-size="14.00" fill="#000000">Interpretación de resultados</text>
+</g>
+<!-- Contrastación con la hipótesis&#45;&gt;Interpretación de resultados -->
+<g id="edge3" class="edge">
+<title>Contrastación con la hipótesis-&gt;Interpretación de resultados</title>
+<path fill="none" stroke="#c0c0c0" stroke-dasharray="5,2" d="M386,-303.8314C386,-296.131 386,-286.9743 386,-278.4166"/>
+<polygon fill="#c0c0c0" stroke="#c0c0c0" points="389.5001,-278.4132 386,-268.4133 382.5001,-278.4133 389.5001,-278.4132"/>
+</g>
+<!-- Propuesta de futuras investigaciones -->
+<g id="node7" class="node">
+<title>Propuesta de futuras investigaciones</title>
+<polygon fill="#b2dfee" stroke="#b2dfee" points="261.5165,-340 16.4835,-340 16.4835,-304 261.5165,-304 261.5165,-340"/>
+<text text-anchor="middle" x="139" y="-317.8" font-family="Arial" font-size="14.00" fill="#000000">Propuesta de futuras investigaciones</text>
+</g>
+<!-- No experimental -->
+<g id="node8" class="node">
+<title>No experimental</title>
+<polygon fill="#b2dfee" stroke="#b2dfee" points="2283.9004,-340 2166.0996,-340 2166.0996,-304 2283.9004,-304 2283.9004,-340"/>
+<text text-anchor="middle" x="2225" y="-317.8" font-family="Arial" font-size="14.00" fill="#000000">No experimental</text>
+</g>
+<!-- Exploratoria -->
+<g id="node9" class="node">
+<title>Exploratoria</title>
+<polygon fill="#b2dfee" stroke="#b2dfee" points="2270.1752,-268 2179.8248,-268 2179.8248,-232 2270.1752,-232 2270.1752,-268"/>
+<text text-anchor="middle" x="2225" y="-245.8" font-family="Arial" font-size="14.00" fill="#000000">Exploratoria</text>
+</g>
+<!-- No experimental&#45;&gt;Exploratoria -->
+<g id="edge4" class="edge">
+<title>No experimental-&gt;Exploratoria</title>
+<path fill="none" stroke="#c0c0c0" stroke-dasharray="5,2" d="M2225,-303.8314C2225,-296.131 2225,-286.9743 2225,-278.4166"/>
+<polygon fill="#c0c0c0" stroke="#c0c0c0" points="2228.5001,-278.4132 2225,-268.4133 2221.5001,-278.4133 2228.5001,-278.4132"/>
+</g>
+<!-- Descriptiva -->
+<g id="node10" class="node">
+<title>Descriptiva</title>
+<polygon fill="#b2dfee" stroke="#b2dfee" points="2267.7191,-196 2182.2809,-196 2182.2809,-160 2267.7191,-160 2267.7191,-196"/>
+<text text-anchor="middle" x="2225" y="-173.8" font-family="Arial" font-size="14.00" fill="#000000">Descriptiva</text>
+</g>
+<!-- Exploratoria&#45;&gt;Descriptiva -->
+<g id="edge5" class="edge">
+<title>Exploratoria-&gt;Descriptiva</title>
+<path fill="none" stroke="#c0c0c0" stroke-dasharray="5,2" d="M2225,-231.8314C2225,-224.131 2225,-214.9743 2225,-206.4166"/>
+<polygon fill="#c0c0c0" stroke="#c0c0c0" points="2228.5001,-206.4132 2225,-196.4133 2221.5001,-206.4133 2228.5001,-206.4132"/>
+</g>
+<!-- Metodología de la investigación -->
+<g id="node11" class="node">
+<title>Metodología de la investigación</title>
+<polygon fill="#b2dfee" stroke="#b2dfee" points="2148.1501,-340 1925.8499,-340 1925.8499,-304 2148.1501,-304 2148.1501,-340"/>
+<text text-anchor="middle" x="2037" y="-317.8" font-family="Arial" font-size="14.00" fill="#000000">Metodología de la investigación</text>
+</g>
+<!-- Hipótesis -->
+<g id="node12" class="node">
+<title>Hipótesis</title>
+<polygon fill="#b2dfee" stroke="#b2dfee" points="2076.2191,-268 1997.7809,-268 1997.7809,-232 2076.2191,-232 2076.2191,-268"/>
+<text text-anchor="middle" x="2037" y="-245.8" font-family="Arial" font-size="14.00" fill="#000000">Hipótesis</text>
+</g>
+<!-- Metodología de la investigación&#45;&gt;Hipótesis -->
+<g id="edge6" class="edge">
+<title>Metodología de la investigación-&gt;Hipótesis</title>
+<path fill="none" stroke="#c0c0c0" stroke-dasharray="5,2" d="M2037,-303.8314C2037,-296.131 2037,-286.9743 2037,-278.4166"/>
+<polygon fill="#c0c0c0" stroke="#c0c0c0" points="2040.5001,-278.4132 2037,-268.4133 2033.5001,-278.4133 2040.5001,-278.4132"/>
+</g>
+<!-- Observaciones -->
+<g id="node13" class="node">
+<title>Observaciones</title>
+<polygon fill="#b2dfee" stroke="#b2dfee" points="2091.854,-196 1982.146,-196 1982.146,-160 2091.854,-160 2091.854,-196"/>
+<text text-anchor="middle" x="2037" y="-173.8" font-family="Arial" font-size="14.00" fill="#000000">Observaciones</text>
+</g>
+<!-- Hipótesis&#45;&gt;Observaciones -->
+<g id="edge7" class="edge">
+<title>Hipótesis-&gt;Observaciones</title>
+<path fill="none" stroke="#c0c0c0" stroke-dasharray="5,2" d="M2037,-231.8314C2037,-224.131 2037,-214.9743 2037,-206.4166"/>
+<polygon fill="#c0c0c0" stroke="#c0c0c0" points="2040.5001,-206.4132 2037,-196.4133 2033.5001,-206.4133 2040.5001,-206.4132"/>
+</g>
+<!-- Formulación de preguntas de investigación -->
+<g id="node14" class="node">
+<title>Formulación de preguntas de investigación</title>
+<polygon fill="#b2dfee" stroke="#b2dfee" points="1908.1668,-340 1615.8332,-340 1615.8332,-304 1908.1668,-304 1908.1668,-340"/>
+<text text-anchor="middle" x="1762" y="-317.8" font-family="Arial" font-size="14.00" fill="#000000">Formulación de preguntas de investigación</text>
+</g>
+<!-- Propuesta de hipótesis basada en la observación -->
+<g id="node15" class="node">
+<title>Propuesta de hipótesis basada en la observación</title>
+<polygon fill="#b2dfee" stroke="#b2dfee" points="1597.5952,-340 1266.4048,-340 1266.4048,-304 1597.5952,-304 1597.5952,-340"/>
+<text text-anchor="middle" x="1432" y="-317.8" font-family="Arial" font-size="14.00" fill="#000000">Propuesta de hipótesis basada en la observación</text>
+</g>
+<!-- Selección de variables dependientes e independientes -->
+<g id="node16" class="node">
+<title>Selección de variables dependientes e independientes</title>
+<polygon fill="#b2dfee" stroke="#b2dfee" points="1248.6162,-340 889.3838,-340 889.3838,-304 1248.6162,-304 1248.6162,-340"/>
+<text text-anchor="middle" x="1069" y="-317.8" font-family="Arial" font-size="14.00" fill="#000000">Selección de variables dependientes e independientes</text>
+</g>
+<!-- Licencia académica -->
+<g id="node17" class="node">
+<title>Licencia académica</title>
+<polygon fill="#b2dfee" stroke="#b2dfee" points="2466.4658,-340 2327.5342,-340 2327.5342,-304 2466.4658,-304 2466.4658,-340"/>
+<text text-anchor="middle" x="2397" y="-317.8" font-family="Arial" font-size="14.00" fill="#000000">Licencia académica</text>
+</g>
+<!-- Licencia comercial -->
+<g id="node18" class="node">
+<title>Licencia comercial</title>
+<polygon fill="#b2dfee" stroke="#b2dfee" points="2462.6165,-268 2331.3835,-268 2331.3835,-232 2462.6165,-232 2462.6165,-268"/>
+<text text-anchor="middle" x="2397" y="-245.8" font-family="Arial" font-size="14.00" fill="#000000">Licencia comercial</text>
+</g>
+<!-- Licencia académica&#45;&gt;Licencia comercial -->
+<g id="edge8" class="edge">
+<title>Licencia académica-&gt;Licencia comercial</title>
+<path fill="none" stroke="#c0c0c0" stroke-dasharray="5,2" d="M2397,-303.8314C2397,-296.131 2397,-286.9743 2397,-278.4166"/>
+<polygon fill="#c0c0c0" stroke="#c0c0c0" points="2400.5001,-278.4132 2397,-268.4133 2393.5001,-278.4133 2400.5001,-278.4132"/>
+</g>
+<!-- Digital refinning -->
+<g id="node19" class="node">
+<title>Digital refinning</title>
+<polygon fill="#b2dfee" stroke="#b2dfee" points="2654.4511,-340 2541.5489,-340 2541.5489,-304 2654.4511,-304 2654.4511,-340"/>
+<text text-anchor="middle" x="2598" y="-317.8" font-family="Arial" font-size="14.00" fill="#000000">Digital refinning</text>
+</g>
+<!-- Scopus -->
+<g id="node20" class="node">
+<title>Scopus</title>
+<polygon fill="#b2dfee" stroke="#b2dfee" points="2629.1852,-268 2566.8148,-268 2566.8148,-232 2629.1852,-232 2629.1852,-268"/>
+<text text-anchor="middle" x="2598" y="-245.8" font-family="Arial" font-size="14.00" fill="#000000">Scopus</text>
+</g>
+<!-- Digital refinning&#45;&gt;Scopus -->
+<g id="edge9" class="edge">
+<title>Digital refinning-&gt;Scopus</title>
+<path fill="none" stroke="#c0c0c0" stroke-dasharray="5,2" d="M2598,-303.8314C2598,-296.131 2598,-286.9743 2598,-278.4166"/>
+<polygon fill="#c0c0c0" stroke="#c0c0c0" points="2601.5001,-278.4132 2598,-268.4133 2594.5001,-278.4133 2601.5001,-278.4132"/>
+</g>
+<!-- Hydrocarbon Engineering -->
+<g id="node21" class="node">
+<title>Hydrocarbon Engineering</title>
+<polygon fill="#b2dfee" stroke="#b2dfee" points="2685.2029,-196 2510.7971,-196 2510.7971,-160 2685.2029,-160 2685.2029,-196"/>
+<text text-anchor="middle" x="2598" y="-173.8" font-family="Arial" font-size="14.00" fill="#000000">Hydrocarbon Engineering</text>
+</g>
+<!-- Scopus&#45;&gt;Hydrocarbon Engineering -->
+<g id="edge10" class="edge">
+<title>Scopus-&gt;Hydrocarbon Engineering</title>
+<path fill="none" stroke="#c0c0c0" stroke-dasharray="5,2" d="M2598,-231.8314C2598,-224.131 2598,-214.9743 2598,-206.4166"/>
+<polygon fill="#c0c0c0" stroke="#c0c0c0" points="2601.5001,-206.4132 2598,-196.4133 2594.5001,-206.4133 2601.5001,-206.4132"/>
+</g>
+<!-- Hydrocarbon Processing -->
+<g id="node22" class="node">
+<title>Hydrocarbon Processing</title>
+<polygon fill="#b2dfee" stroke="#b2dfee" points="2682.7484,-124 2513.2516,-124 2513.2516,-88 2682.7484,-88 2682.7484,-124"/>
+<text text-anchor="middle" x="2598" y="-101.8" font-family="Arial" font-size="14.00" fill="#000000">Hydrocarbon Processing</text>
+</g>
+<!-- Hydrocarbon Engineering&#45;&gt;Hydrocarbon Processing -->
+<g id="edge11" class="edge">
+<title>Hydrocarbon Engineering-&gt;Hydrocarbon Processing</title>
+<path fill="none" stroke="#c0c0c0" stroke-dasharray="5,2" d="M2598,-159.8314C2598,-152.131 2598,-142.9743 2598,-134.4166"/>
+<polygon fill="#c0c0c0" stroke="#c0c0c0" points="2601.5001,-134.4132 2598,-124.4133 2594.5001,-134.4133 2601.5001,-134.4132"/>
+</g>
+<!-- Chemical Engineering -->
+<g id="node23" class="node">
+<title>Chemical Engineering</title>
+<polygon fill="#b2dfee" stroke="#b2dfee" points="2674.4074,-52 2521.5926,-52 2521.5926,-16 2674.4074,-16 2674.4074,-52"/>
+<text text-anchor="middle" x="2598" y="-29.8" font-family="Arial" font-size="14.00" fill="#000000">Chemical Engineering</text>
+</g>
+<!-- Hydrocarbon Processing&#45;&gt;Chemical Engineering -->
+<g id="edge12" class="edge">
+<title>Hydrocarbon Processing-&gt;Chemical Engineering</title>
+<path fill="none" stroke="#c0c0c0" stroke-dasharray="5,2" d="M2598,-87.8314C2598,-80.131 2598,-70.9743 2598,-62.4166"/>
+<polygon fill="#c0c0c0" stroke="#c0c0c0" points="2601.5001,-62.4132 2598,-52.4133 2594.5001,-62.4133 2601.5001,-62.4132"/>
+</g>
+<!-- inundación -->
+<g id="node24" class="node">
+<title>inundación</title>
+<polygon fill="#b2dfee" stroke="#b2dfee" points="3187.3527,-340 3098.6473,-340 3098.6473,-304 3187.3527,-304 3187.3527,-340"/>
+<text text-anchor="middle" x="3143" y="-317.8" font-family="Arial" font-size="14.00" fill="#000000">inundación</text>
+</g>
+<!-- sangrado -->
+<g id="node25" class="node">
+<title>sangrado</title>
+<polygon fill="#b2dfee" stroke="#b2dfee" points="3171.3571,-268 3096.6429,-268 3096.6429,-232 3171.3571,-232 3171.3571,-268"/>
+<text text-anchor="middle" x="3134" y="-245.8" font-family="Arial" font-size="14.00" fill="#000000">sangrado</text>
+</g>
+<!-- inundación&#45;&gt;sangrado -->
+<g id="edge13" class="edge">
+<title>inundación-&gt;sangrado</title>
+<path fill="none" stroke="#c0c0c0" stroke-dasharray="5,2" d="M3140.7289,-303.8314C3139.7664,-296.131 3138.6218,-286.9743 3137.5521,-278.4166"/>
+<polygon fill="#c0c0c0" stroke="#c0c0c0" points="3141.0151,-277.9019 3136.3017,-268.4133 3134.0691,-278.7702 3141.0151,-277.9019"/>
+</g>
+<!-- cebado -->
+<g id="node26" class="node">
+<title>cebado</title>
+<polygon fill="#b2dfee" stroke="#b2dfee" points="3147.9131,-196 3086.0869,-196 3086.0869,-160 3147.9131,-160 3147.9131,-196"/>
+<text text-anchor="middle" x="3117" y="-173.8" font-family="Arial" font-size="14.00" fill="#000000">cebado</text>
+</g>
+<!-- sangrado&#45;&gt;cebado -->
+<g id="edge14" class="edge">
+<title>sangrado-&gt;cebado</title>
+<path fill="none" stroke="#c0c0c0" stroke-dasharray="5,2" d="M3129.7102,-231.8314C3127.892,-224.131 3125.7301,-214.9743 3123.7095,-206.4166"/>
+<polygon fill="#c0c0c0" stroke="#c0c0c0" points="3127.0519,-205.3414 3121.3476,-196.4133 3120.2392,-206.95 3127.0519,-205.3414"/>
+</g>
+<!-- formación de espuma -->
+<g id="node27" class="node">
+<title>formación de espuma</title>
+<polygon fill="#b2dfee" stroke="#b2dfee" points="3186.747,-124 3031.253,-124 3031.253,-88 3186.747,-88 3186.747,-124"/>
+<text text-anchor="middle" x="3109" y="-101.8" font-family="Arial" font-size="14.00" fill="#000000">formación de espuma</text>
+</g>
+<!-- cebado&#45;&gt;formación de espuma -->
+<g id="edge15" class="edge">
+<title>cebado-&gt;formación de espuma</title>
+<path fill="none" stroke="#c0c0c0" stroke-dasharray="5,2" d="M3114.9813,-159.8314C3114.1257,-152.131 3113.1083,-142.9743 3112.1574,-134.4166"/>
+<polygon fill="#c0c0c0" stroke="#c0c0c0" points="3115.6289,-133.9656 3111.0459,-124.4133 3108.6717,-134.7386 3115.6289,-133.9656"/>
+</g>
+<!-- Optimización de operaciones de destilación fraccionada -->
+<g id="node28" class="node">
+<title>Optimización de operaciones de destilación fraccionada</title>
+<polygon fill="#b2dfee" stroke="#b2dfee" points="3080.5191,-340 2709.4809,-340 2709.4809,-304 3080.5191,-304 3080.5191,-340"/>
+<text text-anchor="middle" x="2895" y="-317.8" font-family="Arial" font-size="14.00" fill="#000000">Optimización de operaciones de destilación fraccionada</text>
+</g>
+</g>
+</svg>
